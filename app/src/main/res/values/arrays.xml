@@ -1,0 +1,75 @@
+<resources>
+    <string-array name="pendidikanibu_array">
+        <item>Silahkan pilih data</item>
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>D3</item>
+        <item>S1</item>
+    </string-array>
+    <string-array name="pendidikanayah_array">
+        <item>Silahkan pilih data</item>
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>D3</item>
+        <item>S1</item>
+    </string-array>
+
+    <string-array name="jenis_pekerjaanibu_array">
+        <item>Silahkan pilih data</item>
+        <item>PNS</item>
+        <item>Wiraswasta</item>
+        <item>Petani</item>
+        <item>Karyawan Swasta</item>
+        <item>Lainnya</item>
+    </string-array>
+    <string-array name="jenis_pekerjaanayah_array">
+        <item>Silahkan pilih data</item>
+        <item>PNS</item>
+        <item>Wiraswasta</item>
+        <item>Petani</item>
+        <item>Karyawan Swasta</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    <string-array name="agamaibu_array">
+        <item>Silahkan pilih data</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+        <item>Konghucu</item>
+        <item>Lainnya</item>
+    </string-array>
+    <string-array name="agamaayah_array">
+        <item>Silahkan pilih data</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+        <item>Konghucu</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    <string-array name="status_keluargaibu_array">
+        <item>Silahkan pilih data</item>
+        <item>Kepala Keluarga</item>
+        <item>Istri</item>
+        <item>Anak</item>
+        <item>Orang Tua</item>
+        <item>Saudara</item>
+        <item>Lainnya</item>
+    </string-array>
+    <string-array name="status_keluargaayah_array">
+        <item>Silahkan pilih data</item>
+        <item>Kepala Keluarga</item>
+        <item>Istri</item>
+        <item>Anak</item>
+        <item>Orang Tua</item>
+        <item>Saudara</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>
