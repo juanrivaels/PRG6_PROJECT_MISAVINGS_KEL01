@@ -2,7 +2,7 @@ package model;
 
 public class User {
     private int userId;
-    private String userName;
+    private String Nama;
     private String username;
     private String password;
 
@@ -14,12 +14,12 @@ public class User {
         this.userId = userId;
     }
 
-    public String getUserName() {
-        return userName;
+    public String getNama() {
+        return Nama;
     }
 
-    public void setUserName(String userName) {
-        this.userName = userName;
+    public void setNama(String nama) {
+        Nama = nama;
     }
 
     public String getUsername() {
